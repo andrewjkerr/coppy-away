@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Coppy Away",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Removes Tumblr's April Fool's Joke.",
   "icons": {"128": "icons/icon.png" },
   "author": "Andrew Kerr",
